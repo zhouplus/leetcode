@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Solution001 {
+public class Solution_001 {
 
     /**
      * 求两数之和为target的值的下标
@@ -57,7 +57,7 @@ public class Solution001 {
 
 
     public static void main(String[] args) {
-        Solution001 solution = new Solution001();
+        Solution_001 solution = new Solution_001();
 
         int[] nums = new int[]{230,863,916,585,981,404,316,785,88,12,
                                 70,435,384,778,887,755,740,337,86,92,
